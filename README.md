@@ -8,7 +8,7 @@ Build Angular 12 CRUD App with Firebase Realtime Database that uses `AngularFire
 ![angular-12-firebase-crud-realtime-database](angular-12-firebase-crud-realtime-database.png)
 
 More Practice:
-> [Angular 12 Firestore CRUD example with AngularFireStore](https://www.github.com/JS-IT/angular-12-firestore-crud-angularfirestore/)
+> [Angular 12 Firestore CRUD example with AngularFireStore](https://www.github.com/JS-IT/angular-12-firestore-crud/)
 
 > [Angular 12 Firebase Storage: File Upload/Display/Delete example](https://www.github.com/JS-IT/angular-12-file-upload-firebase-storage/)
 
